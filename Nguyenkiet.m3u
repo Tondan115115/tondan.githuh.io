@@ -1,12 +1,3 @@
-#EXTM3U url-tvg="http://hqth.me/epg" tvg-shift=0 m3uautoload=1
-#--*.*--Giới thiệu về KIPTV--*.*--#
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , KIPTV by Kiet
-https://hqth.me/gioithieukiptv
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , Tham gia Zalo KIPTV: http://hqth.me/kiptvzalo
-http://jackmavietnam.ga/live/testyt
-
-
-
 #--*.*--VTV--*.*--# 
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
